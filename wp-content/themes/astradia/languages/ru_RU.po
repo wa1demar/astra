@@ -1,0 +1,487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Codilight Lite v10.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-04-11 09:54+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ codilight-lite
+#: 404.php:18
+msgid "Ooops&hellip; Error 404"
+msgstr "УПС58 &hellip; ошибка 404"
+
+# @ codilight-lite
+#: 404.php:19
+msgid "Sorry, but the page you are looking for doesn&rsquo;t exist. "
+msgstr "Извините, но страница вы ищете не существует."
+
+# @ codilight-lite
+#: 404.php:24
+msgid "Maybe try a search?"
+msgstr "Может быть, попробовать Поиск?"
+
+# @ codilight-lite
+#: 404.php:29
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+# @ codilight-lite
+#: archive.php:55 archive.php:75 category.php:55 category.php:75 index.php:60
+#: index.php:80 search.php:41
+msgid "Page"
+msgstr "Страница"
+
+# @ codilight-lite
+#: archive.php:57 archive.php:77 category.php:57 category.php:77 index.php:62
+#: index.php:82 search.php:43
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr "Страница %1$s из %2$s"
+
+# @ codilight-lite
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 Комментарий"
+msgstr[1] "%1$s Комментариев"
+
+# @ codilight-lite
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ codilight-lite
+#: comments.php:42 comments.php:62
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+# @ codilight-lite
+#: comments.php:43 comments.php:63
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ codilight-lite
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто"
+
+# @ codilight-lite
+#: footer.php:32
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr ""
+
+# @ codilight-lite
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ codilight-lite
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Меню в подвале"
+
+# @ codilight-lite
+#: functions.php:101
+msgid "Default Sidebar"
+msgstr "Главный Sidebar"
+
+# @ codilight-lite
+#: functions.php:112
+msgid "Home 1"
+msgstr "Главная 1"
+
+# @ codilight-lite
+#: functions.php:121
+msgid "Home 2"
+msgstr "Главная 2"
+
+# @ codilight-lite
+#: functions.php:130
+msgid "Home 3"
+msgstr "Главная 3"
+
+# @ codilight-lite
+#: functions.php:139
+msgid "Home 4"
+msgstr "Главная 4"
+
+# @ codilight-lite
+#: functions.php:184
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ codilight-lite
+#: functions.php:190
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+# @ codilight-lite
+#: header.php:25
+msgid "Skip to content"
+msgstr "Наверх"
+
+# @ codilight-lite
+#: header.php:32
+msgid "Menu"
+msgstr "﻿Меню"
+
+# @ codilight-lite
+#: header.php:42
+msgid "Search"
+msgstr "Поиск"
+
+# @ codilight-lite
+#: inc/customizer-controls.php:38
+msgid "Upgrade to <a href=\"#\">Codilight Premium</a> to be able to change the section order and styling!"
+msgstr ""
+
+# @ codilight-lite
+#: inc/customizer.php:41
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+# @ codilight-lite
+#: inc/customizer.php:43
+msgid "Your site logo"
+msgstr "Ваш логотип сайта"
+
+# @ codilight-lite
+#: inc/customizer.php:54
+msgid "Site Layout"
+msgstr "Схема размещения"
+
+# @ codilight-lite
+#: inc/customizer.php:64
+msgid "Default Sidebar Position"
+msgstr "Позиция сайдбара (боковой панели) по умолчанию"
+
+# @ codilight-lite
+#: inc/customizer.php:78
+msgid "Front Page Posts Layout"
+msgstr "Макет главной страницы"
+
+# @ codilight-lite
+#: inc/customizer.php:92
+msgid "Archive Page Posts Layout"
+msgstr "Макет страницы вывода архивов записей"
+
+# @ codilight-lite
+#: inc/customizer.php:99
+msgid "Category, Tag, Author, Archive Page&hellip;"
+msgstr "Категории, теги, автора, архив страница &hellip;"
+
+# @ codilight-lite
+#: inc/dashboard.php:9
+#, php-format
+msgid "%s Theme Dashboard"
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:9
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:17
+#, php-format
+msgid "Welcome to %1s - Version %2s"
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:18
+msgid "Codilight Lite is a news magazine style WordPress theme from FameThemes which is a perfect option to create any kind of magazine or blog websites."
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:19
+msgid "FameThemes"
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:28
+msgid "Theme Customizer"
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:29
+#, php-format
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:31
+msgid "Start Customize"
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:35
+msgid "Theme Documentation"
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:36
+#, php-format
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:38
+msgid "Online Documentation"
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:42
+msgid "Having Trouble, Need Support?"
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:43
+#, php-format
+msgid "Support for %s WordPress theme is conducted through the WordPress free theme support forum."
+msgstr ""
+
+# @ codilight-lite
+#: inc/dashboard.php:51
+msgid "Theme Screenshot"
+msgstr ""
+
+# @ codilight-lite
+#: inc/extras.php:91
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+# @ codilight-lite
+#: inc/template-tags.php:26
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+# @ codilight-lite
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+# @ codilight-lite
+#: inc/template-tags.php:67
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %1$s"
+
+# @ codilight-lite
+#: inc/template-tags.php:72
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "от %s"
+
+# @ codilight-lite
+#: inc/template-tags.php:95
+msgid "Categories"
+msgstr "Категории"
+
+# @ codilight-lite
+#: inc/template-tags.php:102
+msgid "Tags"
+msgstr "Метки"
+
+# @ codilight-lite
+#: inc/template-tags.php:131
+msgid "Pingback:"
+msgstr ""
+
+# @ codilight-lite
+#: inc/template-tags.php:131
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+# @ codilight-lite
+#: inc/template-tags.php:147
+msgid "Post author"
+msgstr "Автор записи"
+
+# @ codilight-lite
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:153
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+# @ codilight-lite
+#: inc/template-tags.php:155
+msgid "Reply"
+msgstr "Ответить"
+
+# @ codilight-lite
+#: inc/template-tags.php:156
+msgid "Edit"
+msgstr "Изменить"
+
+# @ codilight-lite
+#: inc/template-tags.php:161
+msgid "Your comment is awaiting moderation."
+msgstr "Спасибо! Ваш комментарий ожидает проверки."
+
+# @ codilight-lite
+#: inc/widgets/block_1_widget.php:13
+msgid "Display posts with list or grid style for use on homepage."
+msgstr "Отображать записи блога на главной странице"
+
+# @ codilight-lite
+#: inc/widgets/block_1_widget.php:14
+msgid "FT Block 1 - Recent Posts"
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_1_widget.php:193 inc/widgets/block_2_widget.php:189
+#: inc/widgets/block_3_widget.php:184 inc/widgets/block_4_widget.php:171
+msgid "Widget Title:"
+msgstr "Заголовок Виджета:"
+
+# @ codilight-lite
+#: inc/widgets/block_1_widget.php:197
+msgid "Posts block layout:"
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_1_widget.php:206 inc/widgets/block_2_widget.php:194
+#: inc/widgets/block_4_widget.php:176
+msgid "Multiselect Categories (all by default):"
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_1_widget.php:214 inc/widgets/block_2_widget.php:202
+#: inc/widgets/block_3_widget.php:196 inc/widgets/block_4_widget.php:184
+msgid "Number of posts to show:"
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_1_widget.php:219 inc/widgets/block_2_widget.php:208
+#: inc/widgets/block_3_widget.php:201 inc/widgets/block_4_widget.php:189
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_1_widget.php:222 inc/widgets/block_2_widget.php:211
+#: inc/widgets/block_3_widget.php:204 inc/widgets/block_4_widget.php:192
+msgid "Order By:"
+msgstr "Сортировать по:"
+
+# @ codilight-lite
+#: inc/widgets/block_2_widget.php:13
+msgid "Slider posts widget for use on homepage."
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_2_widget.php:14
+msgid "FT Block 2 - Slider"
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_2_widget.php:204
+msgid "This widget only show posts has featured image."
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_3_widget.php:13
+msgid "Display a list of posts based on one parent category"
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_3_widget.php:14
+msgid "FT Block 3"
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_3_widget.php:188
+msgid "Block Category:"
+msgstr "Категория: "
+
+# @ codilight-lite
+#: inc/widgets/block_4_widget.php:13
+msgid "Display a list of popular/lastest posts for use on sidebar."
+msgstr ""
+
+# @ codilight-lite
+#: inc/widgets/block_4_widget.php:14
+msgid "FT Block 4"
+msgstr ""
+
+# @ codilight-lite
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ codilight-lite
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Найдено ничего"
+
+# @ codilight-lite
+#: template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+# @ codilight-lite
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+# @ codilight-lite
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+# @ codilight-lite
+#: template-parts/content-page.php:21 template-parts/content-single.php:28
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ codilight-lite
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+# @ codilight-lite
+#: template-parts/content-single.php:45
+msgid "Previous article"
+msgstr "< Предыдущая запись"
+
+# @ codilight-lite
+#: template-parts/content-single.php:51
+msgid "Next article"
+msgstr "Следующая запись >"
+
+# @ codilight-lite
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Подробнее %s <span class=\"meta-nav\">&rarr;</span>"
